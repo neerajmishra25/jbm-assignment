@@ -17,9 +17,9 @@ Database - Mongodb
 Username : jbm@mailinator.com
 <br />
 Password : jbm@mailinator.com
-
-This app links these modules:
 <br />
+This app links these modules:
+
  1. Registration 
  2. Login
  3. Admin User id allows admin to create and modify products data 
