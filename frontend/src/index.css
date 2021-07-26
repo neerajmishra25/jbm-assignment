@@ -56,3 +56,6 @@ a.btn.btn-light.my-3:hover {
 	color: #fff;
 	border: none;
 }
+.pro-crd.col-xl-3.col-lg-4.col-md-6.col-sm-12 {
+	display: flex;
+}
